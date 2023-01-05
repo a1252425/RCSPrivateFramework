@@ -1,8 +1,8 @@
 {
   "name": "RCSPrivateFramework",
   "version": "0.1.0",
-  "summary": "A short description of RCSPrivateFramework.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "A private framework.",
+  "description": "This is a private pod testing framework.",
   "homepage": "https://github.com/shuai shao/RCSPrivateFramework",
   "license": {
     "type": "MIT",
@@ -16,7 +16,10 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "11.0"
   },
-  "source_files": "RCSPrivateFramework/Classes/**/*"
+  "source_files": "RCSPrivateFramework/Classes/**/*",
+  "resources": [
+    "RCSPrivateFramework/Assets/RongCloud.bundle"
+  ]
 }

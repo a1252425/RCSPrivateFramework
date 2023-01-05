@@ -8,6 +8,8 @@
 
 #import "RCSViewController.h"
 
+#import <RCSPrivateFramework/RCSBase.h>
+
 @interface RCSViewController ()
 
 @end
@@ -18,6 +20,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    [RCSBase testFilePath];
 }
 
 - (void)didReceiveMemoryWarning

@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "RCSBase.h"
 
 FOUNDATION_EXPORT double RCSPrivateFrameworkVersionNumber;
 FOUNDATION_EXPORT const unsigned char RCSPrivateFrameworkVersionString[];
