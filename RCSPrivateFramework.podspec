@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/shuai shao/RCSPrivateFramework'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'shuai shao' => 'shaoshuai@rongcloud.cn' }
-  s.source           = { :git => 'https://github.com/shuai shao/RCSPrivateFramework.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/a1252425/RCSPrivateFramework.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '11.0'
 
