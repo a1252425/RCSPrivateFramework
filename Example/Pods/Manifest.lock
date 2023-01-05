@@ -1,0 +1,16 @@
+PODS:
+  - RCSPrivateFramework (0.1.0)
+
+DEPENDENCIES:
+  - RCSPrivateFramework (from `../`)
+
+EXTERNAL SOURCES:
+  RCSPrivateFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RCSPrivateFramework: 6d64c3255fe8238704c745240e4d85d481cbe8ae
+
+PODFILE CHECKSUM: 38c0dd7108c97349eea7f66d4a1667d562cf642e
+
+COCOAPODS: 1.11.3
