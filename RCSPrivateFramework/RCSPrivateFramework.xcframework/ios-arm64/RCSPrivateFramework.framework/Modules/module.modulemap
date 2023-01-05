@@ -1,0 +1,6 @@
+framework module RCSPrivateFramework {
+  umbrella header "RCSPrivateFramework.h"
+
+  export *
+  module * { export * }
+}

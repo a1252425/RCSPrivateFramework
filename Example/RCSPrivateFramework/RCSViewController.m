@@ -22,6 +22,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     [RCSBase testFilePath];
+    
+    [RCSBase testCurrentBundleFilePath];
 }
 
 - (void)didReceiveMemoryWarning

@@ -1,5 +1,5 @@
 PODS:
-  - RCSPrivateFramework (0.1.0)
+  - RCSPrivateFramework (0.1.1)
 
 DEPENDENCIES:
   - RCSPrivateFramework (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RCSPrivateFramework: c09a6601f0e637a7ef0c0b853ef3c05926a0207e
+  RCSPrivateFramework: eb40532330a71aeeafdae8bae63948ed41822294
 
-PODFILE CHECKSUM: 38c0dd7108c97349eea7f66d4a1667d562cf642e
+PODFILE CHECKSUM: 35fe8e4419916ea6bbd33694f5eaf9d1dae89d80
 
 COCOAPODS: 1.11.3

@@ -1,6 +1,6 @@
 {
   "name": "RCSPrivateFramework",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A private framework.",
   "description": "This is a private pod testing framework.",
   "homepage": "https://github.com/shuai shao/RCSPrivateFramework",
@@ -12,13 +12,14 @@
     "shuai shao": "shaoshuai@rongcloud.cn"
   },
   "source": {
-    "git": "https://github.com/shuai shao/RCSPrivateFramework.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/a1252425/RCSPrivateFramework.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "11.0"
   },
-  "source_files": "RCSPrivateFramework/Classes/**/*",
+  "requires_arc": true,
+  "vendored_frameworks": "RCSPrivateFramework/RCSPrivateFramework.xcframework",
   "resources": [
     "RCSPrivateFramework/Assets/RongCloud.bundle"
   ]

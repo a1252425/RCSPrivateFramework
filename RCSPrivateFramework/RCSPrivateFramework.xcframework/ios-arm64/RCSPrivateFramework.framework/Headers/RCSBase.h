@@ -13,6 +13,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (void)testFilePath;
 
++ (void)testCurrentBundleFilePath;
+
 @end
 
 NS_ASSUME_NONNULL_END
